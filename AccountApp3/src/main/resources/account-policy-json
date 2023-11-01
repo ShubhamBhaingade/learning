@@ -1,0 +1,16 @@
+{
+    "id": 5,
+    "balance": 890,
+    "loc": "pune",
+    "mobilePin": 57,
+    "accountType": "Saving Account",
+    "accVerification": {
+        "panNumber": "RREE67",
+        "status": true
+    },
+    "policy": {
+        "policyCode": 4,
+        "policyName": "IciCI health",
+        "sumAssuredAmount": 89000
+    }
+}

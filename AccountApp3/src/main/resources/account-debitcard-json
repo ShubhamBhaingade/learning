@@ -1,0 +1,23 @@
+{
+    "id": 1,
+    "balance": 890,
+    "loc": "pune",
+    "mobilePin": 57,
+    "accountType": "Saving Account",
+    "accVerification": {
+        "panNumber": "RREE67",
+        "status": true
+    },
+    "policy": {
+        "policyCode": 3,
+        "policyName": "Star Health Insurance",
+        "sumAssuredAmount": 9000000
+    },
+    "debitCard": {
+        "cardNumber": 6,
+        "pin": 1234,
+        "expiryDate": "12-10-2023",
+        "cardStatus": true,
+        "blocked": false
+    }
+}
